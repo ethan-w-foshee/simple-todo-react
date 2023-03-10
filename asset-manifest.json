@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/simple-todo-react/static/css/main.073c9b0a.css",
-    "main.js": "/simple-todo-react/static/js/main.524c6f6d.js",
-    "static/js/787.2843ca88.chunk.js": "/simple-todo-react/static/js/787.2843ca88.chunk.js",
-    "static/media/logo.svg": "/simple-todo-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/simple-todo-react/static/css/main.1591bd21.css",
+    "main.js": "/simple-todo-react/static/js/main.91243a3a.js",
     "index.html": "/simple-todo-react/index.html",
-    "main.073c9b0a.css.map": "/simple-todo-react/static/css/main.073c9b0a.css.map",
-    "main.524c6f6d.js.map": "/simple-todo-react/static/js/main.524c6f6d.js.map",
-    "787.2843ca88.chunk.js.map": "/simple-todo-react/static/js/787.2843ca88.chunk.js.map"
+    "main.1591bd21.css.map": "/simple-todo-react/static/css/main.1591bd21.css.map",
+    "main.91243a3a.js.map": "/simple-todo-react/static/js/main.91243a3a.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.524c6f6d.js"
+    "static/css/main.1591bd21.css",
+    "static/js/main.91243a3a.js"
   ]
 }
